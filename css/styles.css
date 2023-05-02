@@ -9,6 +9,15 @@ a {text-decoration: none;}
 
 body {font-family: "Roboto", sans-serif}
      {color: #434455;}
-     {background-color:#FFFFFF}
+body     {background-color:#ffffff
+    }
 
-     
+    /* nav */
+    nav {font-family: "Raleway", sans-serif
+   
+    font-weight: 800
+    font-size: 18px
+    line-height: 1.17
+    letter-spacing: 0.03em
+    text-transform: uppercase
+}
