@@ -22,3 +22,7 @@ body     {background-color:#ffffff
     letter-spacing: 0.03em
     text-transform: uppercase
 }
+
+.logo {
+  color: var(#4d5ae5);
+}
