@@ -7,6 +7,12 @@
 
 a {text-decoration: none;}
 
+.menu-list {font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1,5; 
+    letter-spacing: 0.02em;}
+
 body {font-family: "Roboto", sans-serif}
      {color: #434455;}
 body     {background-color:#ffffff
@@ -22,8 +28,14 @@ body     {background-color:#ffffff
     text-transform: uppercase
 }
 
-.logo-link {
-    color: #2e2f42;
+.logo-link {font-family: 'Raleway';
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1,16;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
 .hero {background:#2e2f42
