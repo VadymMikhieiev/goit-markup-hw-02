@@ -28,7 +28,7 @@ body     {background-color:#ffffff
     text-transform: uppercase
 }
 
-.logo-link {font-family: 'Raleway';
+.logo-fist-word {font-family: 'Raleway';
     font-weight: 800;
     font-size: 18px;
     line-height: 1,16;
@@ -42,18 +42,24 @@ body     {background-color:#ffffff
 }
 
 .hero-title {color: white;
-             font-size: 56px 
-             line-height: 1.07
-             text-align: center
-             letter-spacing: 0.02em
+             font-size: 56px; 
+             line-height: 1.07;
+             text-align: center;
+             letter-spacing: 0.02em;
              
 }
-.button {background-color: #4D5AE5
-         font-family: "Roboto", sans-serif
-         font-weight: 500 
-         font-size: 16px
-         line-height: 1.5 
-         letter-spacing: 0.04em
+.button-background {background-color: #4D5AE5;
+         font-family: "Roboto", sans-serif;
+         font-weight: 500; 
+         font-size: 16px;
+         line-height: 1.5; 
+         letter-spacing: 0.04em;
          
 }
-.button-text {color: #ffffff;}
+.button-text {color: font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1,5;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.04em;;}
