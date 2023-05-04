@@ -1,7 +1,7 @@
 :root {
     --main-font-family: 'Roboto' , sans-serif;
 }
-.list {
+.menu-list {
     list-style: none;
 }
 
@@ -56,10 +56,20 @@ body     {background-color:#ffffff
          letter-spacing: 0.04em;
          
 }
-.button-text {color: font-family: 'Roboto';
+.button-text {color: white: 'Roboto';
     font-weight: 500;
     font-size: 16px;
     line-height: 1,5;
     display: flex;
     align-items: center;
-    letter-spacing: 0.04em;;}
+    letter-spacing: 0.04em;}
+
+    .zagolovok {font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1,11;
+        
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+    }
