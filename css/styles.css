@@ -13,14 +13,14 @@ a {text-decoration: none;}
     line-height: 1,5; 
     letter-spacing: 0.02em;}
 
-body {font-family: "Roboto", sans-serif}
-     {color: #434455;}
-body     {background-color:#ffffff
+body {font-family: 'Roboto', sans-serif}
+     {color: #434455;
+     background-color:#ffffff 
     }
 
     /* nav */
 
-   .logo-link {font-family: "Raleway", sans-serif
+   .logo-link {font-family: 'Raleway', sans-serif
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -31,9 +31,7 @@ body     {background-color:#ffffff
 .logo-fist-word {font-family: 'Raleway';
     font-weight: 800;
     font-size: 18px;
-    line-height: 1,16;
-    display: flex;
-    align-items: center;
+    line-height: 1.16;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -49,17 +47,17 @@ body     {background-color:#ffffff
              
 }
 .button-background {background-color: #4D5AE5;
-         font-family: "Roboto", sans-serif;
+         font-family: 'Roboto', sans-serif;
          font-weight: 500; 
          font-size: 16px;
          line-height: 1.5; 
          letter-spacing: 0.04em;
          
 }
-.button-text {color: white: 'Roboto';
+.button-text {color: white;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,5;
+    line-height: 1.5;
     display: flex;
     align-items: center;
     letter-spacing: 0.04em;}
@@ -67,7 +65,7 @@ body     {background-color:#ffffff
     .zagolovok {font-family: 'Roboto';
         font-weight: 700;
         font-size: 36px;
-        line-height: 1,11;
+        line-height: 1.11;
         
         text-align: center;
         letter-spacing: 0.02em;
