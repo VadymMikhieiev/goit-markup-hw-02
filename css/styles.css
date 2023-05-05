@@ -131,4 +131,6 @@ body {font-family: 'Roboto', sans-serif;
 
                  /* PORTFOLIO*/
                  
-
+.body-portfolio {font-family: 'Roboto', sans-serif;
+                 color: var(--link-color);}
+                 
