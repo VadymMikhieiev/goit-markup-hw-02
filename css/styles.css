@@ -4,6 +4,8 @@
     --link-color: #434455;
     --zagolovok: #2e2f42;
     --footer: #2e2f42;
+    --buton-color: #4d5ae5;
+    --buton-background-color: #F4F4FD;
 }
 .list {
     list-style: none;
@@ -133,4 +135,15 @@ body {font-family: 'Roboto', sans-serif;
                  
 .body-portfolio {font-family: 'Roboto', sans-serif;
                  color: var(--link-color);}
-                 
+
+.button-portfolio {font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--buton-color);
+    background-color: var(--buton-background-color);
+}
+
+.button-portfolio:hover {color: ##FFFFFF;}
+.button-background:focus {color: ##FFFFFF;}
