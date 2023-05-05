@@ -30,6 +30,12 @@ body {font-family: 'Roboto', sans-serif;
      background-color:#ffffff;
     }
 
+.menu-item {text-decoration:none;}
+            {color: #404bbf;}
+
+.menu-item:hover {color: #404bbf;}  
+.menu-item:focus {color: #404bbf;}
+         
 .logo-link {font-weight: 500;}
 
 .link {text-decoration:none;}
