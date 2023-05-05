@@ -3,6 +3,7 @@
     --light-color: #2e2f42;
     --link-color: #434455;
     --zagolovok: #2e2f42;
+    --footer: #2e2f42;
 }
 .list {
     list-style: none;
@@ -125,3 +126,10 @@ body {font-family: 'Roboto', sans-serif;
 }
 
 .footer background-color:var(--zagolovok);
+
+.logo-span {color: #f4f4fd;}
+
+                 /* PORTFOLIO*/
+                 
+body {font-family: 'Roboto', sans-serif;
+      color: var(--link-color);}
