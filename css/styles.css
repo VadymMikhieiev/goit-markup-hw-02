@@ -121,6 +121,7 @@ body {font-family: 'Roboto', sans-serif;
 .text {line-height: 1.5;
     letter-spacing: 0.02em;
     font-size: 16px;
+    color: var(--link-color);
 }
 
 .our-team {background-color: #F4F4FD;}
