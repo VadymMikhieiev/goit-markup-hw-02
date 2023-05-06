@@ -146,8 +146,8 @@ body {font-family: 'Roboto', sans-serif;
     cursor: pointer;
 }
 
-.button-portfolio:hover {color: #FFFFFF
-background-color: #404BBF}
-.button-background:focus {color: #FFFFFF
-    background-color: #404BBF}
+.button-portfolio:hover {color: #FFFFFF;}
+.button-portfolio: {background-color: #404BBF;}
+.button-background:focus {color: #FFFFFF;}
+.button-background: {background-color: #404BBF;}
 
