@@ -59,6 +59,7 @@ body {font-family: 'Roboto', sans-serif;
 }
 
 .logo-span {font-family: 'Raleway';
+    color: #f4f4fd;
     color: var(--light-color);
     font-weight: 800;
     font-size: 18px;
