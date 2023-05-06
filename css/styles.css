@@ -149,8 +149,8 @@ body {font-family: 'Roboto', sans-serif;
 .button-portfolio:hover {color: #FFFFFF}
 .button-portfolio:focus {color: #FFFFFF}
 
-.button-portfolio:hover {background-color: #404BBF}
-.button-portfolio:focus {background-color: #404BBF}
+.button-portfolio:hover {background-color: #404BBF};
+.button-portfolio:focus {background-color: #404BBF};
 
 
 
