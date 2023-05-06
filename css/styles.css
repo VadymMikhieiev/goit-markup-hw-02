@@ -11,7 +11,6 @@
     list-style: none;
 }
 
-
 a {text-decoration: none;}
 
 .menu-list {font-family: 'Roboto';
@@ -49,7 +48,7 @@ body {font-family: 'Roboto', sans-serif;
 
     /* nav */
 
-   .logo-link {font-family: 'Raleway', sans-serif;
+.logo-link {font-family: 'Raleway', sans-serif;
     color: var(--buton-color);
     font-weight: 500;
     font-weight: 800;
@@ -60,7 +59,6 @@ body {font-family: 'Roboto', sans-serif;
 }
 
 .logo-span {font-family: 'Raleway';
-    color: var(--light-color);
     font-weight: 800;
     font-size: 18px;
     line-height: 1.16;
@@ -95,7 +93,6 @@ body {font-family: 'Roboto', sans-serif;
 
 .button-background {cursor: pointer;}
 
-
 .button-text {color: white;
     font-weight: 500;
     font-size: 16px;
@@ -125,15 +122,13 @@ body {font-family: 'Roboto', sans-serif;
     letter-spacing: 0.02em;
     font-size: 16px;
 }
+
 .our-team {background-color: #F4F4FD;}
 
 .workers {background-color: #FFFFFF;
 }
 
 .footer {background-color:var(--zagolovok);}
-
-.logo-span {color: var(--buton-color)
-}
 
                  /* PORTFOLIO*/
                  
