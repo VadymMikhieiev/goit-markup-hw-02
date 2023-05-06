@@ -143,7 +143,11 @@ body {font-family: 'Roboto', sans-serif;
     letter-spacing: 0.04em;
     color: var(--buton-color);
     background-color: var(--buton-background-color);
+    cursor: pointer;
 }
 
-.button-portfolio:hover {color: ##FFFFFF;}
-.button-background:focus {color: ##FFFFFF;}
+.button-portfolio:hover {color: #FFFFFF
+background-color: #404BBF}
+.button-background:focus {color: #FFFFFF
+    background-color: #404BBF}
+
