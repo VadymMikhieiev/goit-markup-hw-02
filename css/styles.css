@@ -128,8 +128,8 @@ body {font-family: 'Roboto', sans-serif;
 .workers {background-color: #FFFFFF;
 }
 
-.footer {color: #f4f4fd;
-        background-color:var(--zagolovok);}
+.footer {background-color:var(--zagolovok);}
+.logo-span-footer {color: #f4f4fd;}
 
                  /* PORTFOLIO*/
                  
