@@ -52,7 +52,7 @@ body {font-family: 'Roboto', sans-serif;
     /* nav */
 
    .logo-link {font-family: 'Raleway', sans-serif;
-    color: #4D5AE5;
+    color: var(--zagolovok);
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
