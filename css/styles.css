@@ -67,8 +67,6 @@ body {font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
 }
 
-.link {text-decoration: none;}
-
 .hero {background:#2e2f42
 }
 
@@ -79,6 +77,7 @@ body {font-family: 'Roboto', sans-serif;
              letter-spacing: 0.02em;
              
 }
+
 .button-background {background-color: #4D5AE5;
     color: white;
          font-family: 'Roboto', sans-serif;
@@ -152,5 +151,13 @@ body {font-family: 'Roboto', sans-serif;
 .button-portfolio:focus {background-color: #404BBF;}
 .button-portfolio:hover {background-color: #404BBF;}
 
+.logo-span-portfolio {font-family: 'Raleway';
+    color: var(--light-color);
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 
-
+.contacts {color: var(--link-color);
+}
