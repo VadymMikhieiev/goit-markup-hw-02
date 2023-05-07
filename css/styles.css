@@ -154,10 +154,10 @@ body {font-family: 'Roboto', sans-serif;
 .button-portfolio:focus {background-color: #404BBF;}
 .button-portfolio:hover {background-color: #404BBF;}
 
-
-
 .contacts {color: var(--link-color);
 }
+
+.footer-portfolio {background-color:var(--footer);}
 
 
 
