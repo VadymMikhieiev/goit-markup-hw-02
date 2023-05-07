@@ -154,16 +154,10 @@ body {font-family: 'Roboto', sans-serif;
 .button-portfolio:focus {background-color: #404BBF;}
 .button-portfolio:hover {background-color: #404BBF;}
 
-.logo-span-portfolio {font-family: 'Raleway';
-    color: var(--light-color);
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.16;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;}
+
 
 .contacts {color: var(--link-color);
 }
 
-.footer-portfolio {background-color:var(--footer);}
+
 
